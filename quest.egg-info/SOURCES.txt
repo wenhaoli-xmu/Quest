@@ -1,0 +1,5 @@
+setup.py
+quest.egg-info/PKG-INFO
+quest.egg-info/SOURCES.txt
+quest.egg-info/dependency_links.txt
+quest.egg-info/top_level.txt
